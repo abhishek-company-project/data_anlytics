@@ -1,0 +1,3 @@
+Section 1: Introduction
+This is the first page content.Section 2: Detailed Analysis
+This content starts on a new page (if printed).
